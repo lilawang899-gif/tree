@@ -1,0 +1,7 @@
+{
+  "name": "Luxury Gesture Christmas Tree",
+  "description": "A cinematic 3D Christmas tree experience controlled by hand gestures, featuring instanced geometry, a photo cloud, and high-end visual effects.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

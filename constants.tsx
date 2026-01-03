@@ -1,0 +1,21 @@
+
+export const COLORS = {
+  EMERALD_GREEN: '#043927',
+  METALLIC_GOLD: '#D4AF37',
+  CHRISTMAS_RED: '#B22222',
+  SILVER_WHITE: '#F5F5F5',
+  DARK_BG: '#01160d'
+};
+
+export const GESTURE_THRESHOLD = {
+  FIST_DIST: 0.08,
+  OPEN_DIST: 0.12,
+  PINCH_DIST: 0.04
+};
+
+export const TREE_CONFIG = {
+  HEIGHT: 12,
+  RADIUS: 5,
+  ELEMENT_COUNT: 1200,
+  SNOW_COUNT: 800
+};
